@@ -6,7 +6,7 @@ Esse é um pequeno exemplo de uso do _framework_ de testes Mocha, com o Typescri
 
 Para rodar o script, basta clonar o repositório e digitar:
 
-*npm install
-*npm test
+* npm install
+* npm test
 
-#nodejs# #Typescript# #mocha# #chai#
+__nodejs__ __Typescript__ __mocha__ __chai__
